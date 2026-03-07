@@ -6,6 +6,9 @@ Disponibile in due versioni identiche:
 - `OctoCheck.ps1` — Windows (PowerShell)
 - `octocheck.sh` — Linux (Bash)
 
+🐙 Non sei ancora un cliente Octopus Energy?
+Per sostenermi passa con [questo link](https://octopusenergy.it/octo-friends/askew-banana-370), 30€ in sconto a entrambi sulla prima bolletta
+
 ---
 
 ## 🤖 Istanza pubblica
