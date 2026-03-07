@@ -213,4 +213,4 @@ Esempio contenuto:
 
 ## 📜 Licenza
 
-GPL V2
+GNU General Public License v2.0
