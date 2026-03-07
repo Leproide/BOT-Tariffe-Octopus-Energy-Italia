@@ -43,9 +43,6 @@ Disponibile in due versioni identiche:
    👍🏻 Commercializzazione Gas: 7 €/mese (invariato)
 
 📅 Aggiornato il 07/03/2026 14:00
-
-Passa a Octopus Energy con questo link e ricevi 30€ di sconto sulla prima bolletta!
-https://octopusenergy.it/octo-friends/askew-banana-370
 ```
 
 ---
