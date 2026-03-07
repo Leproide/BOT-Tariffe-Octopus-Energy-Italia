@@ -17,8 +17,8 @@ param(
 # CONFIGURAZIONE – modifica questi valori prima di usare lo script
 # ------------------------------------------------------------------------------
 
-$TelegramBotToken = "CAMBIAMI"			# BOT Token
-$TelegramChatId   = "CAMBIAMI"		# Chat ID destinatario
+$TelegramBotToken = "IL_TUO_TOKEN"			# BOT Token
+$TelegramChatId   = "IL_TUO_CHAT_ID"		# Chat ID destinatario
 
 # Soglie di allerta
 $SogliaLuce = 0.100          # €/kWh  – invia se luce <= questa soglia (usa il punto: 0.100)
@@ -378,3 +378,4 @@ $sezioneAndamento
     Write-Host "Nessuna notifica inviata: $motivoNoInvio." -ForegroundColor DarkYellow
 
 }
+
