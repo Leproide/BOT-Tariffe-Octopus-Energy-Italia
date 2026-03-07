@@ -8,6 +8,14 @@ Disponibile in due versioni identiche:
 
 ---
 
+## 🤖 Istanza pubblica
+
+Per chi volesse esiste la mia istanza pubblica con la funzione base di notifica al cambio prezzo
+
+https://t.me/OctopusEnergy_Italia 
+
+Per tutte le altre funzioni dovete necessariamente avviare una vostra istanza privata.
+
 ## 📋 Funzionalità
 
 - **Scraping automatico** delle tariffe Octopus Fissa 12M dalla pagina ufficiale
