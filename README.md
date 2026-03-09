@@ -7,7 +7,7 @@ Disponibile in due versioni identiche:
 - `octocheck.sh` — Linux (Bash)
 
 🐙 Non sei ancora un cliente Octopus Energy?
-Per sostenermi utilizza [questo link](https://muninn.ovh/octopus.php), 30€ in sconto a entrambi sulla prima bolletta.
+Per sostenermi utilizza [questo link](https://muninn.ovh/octobot), 30€ in sconto a entrambi sulla prima bolletta.
 
 ---
 
