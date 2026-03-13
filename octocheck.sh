@@ -37,6 +37,9 @@ AGGIORNA_VARIAZIONI=true
 # (utile per rinnovi contrattuali).
 NOTIFICA_RINNOVO=true
 
+REFERRAL="🐙 Se ti va, supportami a questo link
+https://muninn.ovh/octobot"
+
 # ------------------------------------------------------------------------------
 # FINE CONFIGURAZIONE
 # ------------------------------------------------------------------------------
@@ -409,6 +412,12 @@ ${R4}"
 ${SEZIONE_ANDAMENTO}
 
 📅 Aggiornato il ${DATA_ORA}
+
+${REFERRAL}
+
+Attenzione:
+Servizio gratuito senza garanzia sulla correttezza del dato.
+Prima di sottoscrivere contratti controllare i costi sul sito ufficiale.
 "
 
     echo "Invio notifica Telegram ($MOTIVO_INVIO)..."
