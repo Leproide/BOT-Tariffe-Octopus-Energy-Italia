@@ -1,0 +1,11 @@
+# OctoCheck – file da non versionare
+# Author: https://github.com/Leproide
+# License: GPL-3.0
+
+# Segreti
+.env
+
+# Stato e log generati dagli script
+lastprice.json
+log/
+*.log
